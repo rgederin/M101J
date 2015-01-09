@@ -1,4 +1,4 @@
-package com.gederin;
+package com.gederin.helloworld;
 import com.mongodb.*;
 
 import java.net.UnknownHostException;

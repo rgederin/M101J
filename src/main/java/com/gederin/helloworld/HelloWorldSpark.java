@@ -1,4 +1,4 @@
-package com.gederin;
+package com.gederin.helloworld;
 
 import spark.Request;
 import spark.Response;
