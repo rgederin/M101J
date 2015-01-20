@@ -1,4 +1,4 @@
-package com.gederin.helloworld;
+package com.gederin.examples.helloworld;
 
 import freemarker.template.Configuration;
 import freemarker.template.Template;
