@@ -37,8 +37,12 @@ public class UpdateRemoveTest {
         }
 
         // see scratch method
+        collection.update(new BasicDBObject("_id", "frank"),
+                new BasicDBObject("$set", new BasicDBObject("age", 24)), true, false);
 
         printCollection(collection);
+
+
     }
 
     // these are all the statement I used throughout the lecture.
